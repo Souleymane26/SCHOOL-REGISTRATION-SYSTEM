@@ -1,0 +1,1 @@
+Efficient school registration system for managing student enrollment, courses, and instructors. Streamlines academic records, prevents errors, and provides a clear, organized platform for easy administration.
